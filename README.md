@@ -4,4 +4,5 @@ My Error Log - Andi Rustianto [@anditorx](https://github.com/anditorx)
 
 ## Handling an error
 
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+- [React Native Error: decorators-legacy](https://github.com/anditorx/errorlog/tree/main/ReactNative/Error-Decorators-Legacy)
+- [React Native Error: Task :app:mergeDexDebug FAILED](https://github.com/anditorx/errorlog/tree/main/ReactNative/app-mergeDexDebugFAILED)
