@@ -22,4 +22,4 @@ dependencies {
 }
 ```
 
-[Source](Source : https://github.com/react-native-webview/react-native-webview/issues/1344)
+[Source](https://github.com/react-native-webview/react-native-webview/issues/1344)
