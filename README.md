@@ -8,6 +8,7 @@ This repository is a collection of error logs that I have encountered in my deve
 - [React Native Error: Task :app:mergeDexDebug FAILED](https://github.com/anditorx/errorlog/tree/main/src/app-mergeDexDebugFAILED)
 - [React Native | Upload Image - Network Error](https://github.com/anditorx/errorlog/tree/main/src/upload-image-network-error)
 - [React Native - ERROR ':app:mergeDexDebug'](https://github.com/anditorx/errorlog/tree/main/src/rn-error-app-mergedexdebug)
+- [React Native FlatList inside ScrollView doesn't scroll](https://github.com/anditorx/errorlog/tree/main/src/rn-error-app-mergedexdebug)
 
 ## Authors
 
