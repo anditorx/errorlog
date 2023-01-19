@@ -8,4 +8,4 @@ Version of flipper SDK to use with React Native
   FLIPPER_VERSION=0.39.0  // edit this manually
 ```
 
-[Source](https://github.com/facebook/flipper/issues/993#issuecomment-619823916)
+Source: [Flipper Issues](https://github.com/facebook/flipper/issues/993#issuecomment-619823916)
