@@ -1,6 +1,6 @@
 # React Native | Upload Image - Network Error
 
-This should be fixed in version 0.39.0. To upgrade, edit android > gradle.properties
+This should be fixed in version 0.39.0. To upgrade, edit `android > gradle.properties`
 
 Version of flipper SDK to use with React Native
 
