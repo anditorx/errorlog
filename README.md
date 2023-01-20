@@ -22,7 +22,8 @@ This repository is a collection of error logs that I have encountered in my deve
 - [Cocoapod - Error cocoapods pod install M1](https://github.com/anditorx/errorlog/tree/main/src/error-cocoapod-install-m1)
 
 ### Netlify
-- [Netlify - Page Not Found Error on Netlify Reactjs React Router](https://github.com/anditorx/errorlog/tree/main/src/error-cocoapod-install-m1)
+- [Netlify - Page Not Found Error on Netlify Reactjs React Router](https://github.com/anditorx/errorlog/tree/main/src/netlify-page-not-found-reactjs)
+
 
 ## Authors
 
