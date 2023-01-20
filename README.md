@@ -25,6 +25,8 @@ This repository is a collection of error logs that I have encountered in my deve
 - [Netlify - Page Not Found Error on Netlify Reactjs React Router](https://github.com/anditorx/errorlog/tree/main/src/netlify-page-not-found-reactjs)
 ### ESLint
 - [ESLint - How to fix ESlint Error: Must use import to load ES Module](https://github.com/anditorx/errorlog/tree/main/src/eslint-error-must-use-import-es-module)
+### Gradle
+- [How to fix the error "Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8." in React Native?](https://github.com/anditorx/errorlog/tree/main/src/eslint-error-must-use-import-es-module)
 
 
 ## Authors
