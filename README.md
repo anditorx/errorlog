@@ -18,6 +18,7 @@ This repository is a collection of error logs that I have encountered in my deve
 - [React Native :app:installDebug FAILED](https://github.com/anditorx/errorlog/tree/main/src/rn-installDebug-FAILED)
 - [React Native - force close after install REALM](https://github.com/anditorx/errorlog/tree/main/src/rn-force-close-after-install-realm)
 - [React Native Run Android ERROR: AAR metadata](https://github.com/anditorx/errorlog/tree/main/src/rn-error-AARmetadata)
+- [React Native Run Android ERROR: AAR for react-native-reanimated found](https://github.com/anditorx/errorlog/tree/main/src/rn-error-AARmetadata)
 
 ### Cocoapod
 - [Cocoapod - Error cocoapods pod install M1](https://github.com/anditorx/errorlog/tree/main/src/error-cocoapod-install-m1)
