@@ -1,6 +1,6 @@
 # React Native FlatList inside ScrollView doesn't scroll
 
-```bash
+```js
   <FlatList nestedScrollEnabled />
 ```
 

@@ -2,9 +2,9 @@
 
 Android 5.0 (API level 21) and higher uses ART which supports multidexing. Therefore, if your minSdkVersion is 21 or higher, the multidex support library is not needed.
 
-Modify At Path android/app/build.gradle
+Modify At Path `android/app/build.gradle`
 
-```bash
+```java
 android {
   compileSdkVersion 22
   buildToolsVersion "23.0.0"
@@ -22,4 +22,4 @@ dependencies {
 }
 ```
 
-[Source](https://github.com/react-native-webview/react-native-webview/issues/1344)
+Source: [React Native Webview Issue](https://github.com/react-native-webview/react-native-webview/issues/1344)

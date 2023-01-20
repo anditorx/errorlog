@@ -2,7 +2,7 @@
 
 At Path `android/app/build.gradle`
 
-```bash
+```java
 defaultConfig {
 	multiDexEnabled true //Add this line
 }
