@@ -2,16 +2,15 @@
 
 Experimental syntax 'decorators-legacy' isn't currently enabled
 
-1.Install decorator in package.json
+1.Install decorator in `package.json`
 
 ```json
-	 "@babel/plugin-proposal-decorators": "^7.3.0",
-    	 "@babel/preset-flow": "^7.0.0"
+"@babel/plugin-proposal-decorators": "^7.3.0",
+"@babel/preset-flow": "^7.0.0"
 ```
 
-2.update babe.config.js with this
-
-```java
+2.update `babel.config.js` with this
+```js
 module.exports = {
   "presets": [
     "module:metro-react-native-babel-preset",
