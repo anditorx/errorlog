@@ -7,5 +7,5 @@ In `package.json`. inside `devDependecies`, Add this line
 ```
 Then, in `.eslintrc.js` file, Add this line
 ```json
-  parser: '@babel/eslint-parser',
+  parser: '@babel/eslint-parser'
 ```
