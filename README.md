@@ -6,7 +6,7 @@
 # About
 This repository is a collection of error logs that I have encountered in my development process.
 
-## Handling an error
+# Handling an error
 
 ### React Native
 
