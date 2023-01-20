@@ -31,6 +31,8 @@ This repository is a collection of error logs that I have encountered in my deve
 - [How to fix the error Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8." in React Native?](https://github.com/anditorx/errorlog/tree/main/src/android-Gradle-plugin-requires-Java11)
 
 
+![Img](https://res.cloudinary.com/dzwztfzvu/image/upload/v1674204366/programming-1857236_1280_banner_daunyi.jpg)
+
 ## Authors
 
 - [@anditorx](https://www.github.com/anditorx)
