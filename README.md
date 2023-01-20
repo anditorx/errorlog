@@ -11,6 +11,7 @@ This repository is a collection of error logs that I have encountered in my deve
 - [React Native FlatList inside ScrollView doesn't scroll](https://github.com/anditorx/errorlog/tree/main/src/rn-flatlist-inside-scrollview)
 - [React Native Execution failed for task ':app:mergeReleaseResources'](https://github.com/anditorx/errorlog/tree/main/src/rn-error-app-mergeReleaseResources)
 - [React Native Android: Static Image is not showing in production released apk](https://github.com/anditorx/errorlog/tree/main/src/rn-error-static-image)
+- [React Native - Release APK Not Updating in React Native](https://github.com/anditorx/errorlog/tree/main/src/rn-error-static-image)
 
 ## Authors
 
