@@ -16,7 +16,7 @@ This repository is a collection of error logs that I have encountered in my deve
 - [React Native - Release APK Not Updating in React Native](https://github.com/anditorx/errorlog/tree/main/src/rn-release-apk-not-update)
 - [React Native Android Build FAILD :app:mergeReleaseResources | Duplicate Resource](https://github.com/anditorx/errorlog/tree/main/src/rn-mergeReleaseResources)
 - [React Native :app:installDebug FAILED](https://github.com/anditorx/errorlog/tree/main/src/rn-installDebug-FAILED)
-- [React Native - force close after install REALM](https://github.com/anditorx/errorlog/tree/main/src/rn-installDebug-FAILED)
+- [React Native - force close after install REALM](https://github.com/anditorx/errorlog/tree/main/src/rn-force-close-after-install-realm)
 
 ### Cocoapod
 - [Cocoapod - Error cocoapods pod install M1](https://github.com/anditorx/errorlog/tree/main/src/error-cocoapod-install-m1)
