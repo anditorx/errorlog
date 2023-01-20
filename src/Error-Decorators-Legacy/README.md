@@ -4,8 +4,7 @@ Experimental syntax 'decorators-legacy' isn't currently enabled
 
 1.Install decorator in package.json
 
-```java
-  install decorator in package.json
+```json
 	 "@babel/plugin-proposal-decorators": "^7.3.0",
     	 "@babel/preset-flow": "^7.0.0"
 ```
