@@ -27,7 +27,7 @@ This repository is a collection of error logs that I found in the development pr
 
 ### nvm
 
-- [Change default node verion using nvm](https://github.com/anditorx/errorlog/tree/main/src/error-cocoapod-install-m1)
+- [Change default node verion using nvm](https://github.com/anditorx/errorlog/tree/main/src/changeNodeVerionNVM)
 
 ### Cocoapod
 
