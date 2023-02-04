@@ -25,9 +25,13 @@ This repository is a collection of error logs that I found in the development pr
 - [React Native Run Android ERROR: AAR metadata](https://github.com/anditorx/errorlog/tree/main/src/rn-error-AARmetadata)
 - [React Native Run Android ERROR: AAR for react-native-reanimated found](https://github.com/anditorx/errorlog/tree/main/src/rn-aar-reanimated-notfound)
 
-### nvm
+### Node Version
 
-- [Change default node verion using nvm](https://github.com/anditorx/errorlog/tree/main/src/changeNodeVerionNVM)
+- [Change default node version using nvm](https://github.com/anditorx/errorlog/tree/main/src/changeNodeVerionNVM)
+
+### Java Version
+
+- [Change default Java version using jenv](https://github.com/anditorx/errorlog/tree/main/src/changeJavaVersionJenv)
 
 ### Cocoapod
 
