@@ -15,7 +15,6 @@ OR
 set default version to 10.17.0
 ```bash
   nvm alias default 10.17.0
-  node -v
 ```
 
 check version
