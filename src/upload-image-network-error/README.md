@@ -4,7 +4,7 @@ This should be fixed in version 0.39.0. To upgrade, edit `android > gradle.prop
 
 Version of flipper SDK to use with React Native
 
-`edit this manually`
+edit this manually
 ```bash
   FLIPPER_VERSION=0.39.0  
 ```
